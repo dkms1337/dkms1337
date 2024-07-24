@@ -1,5 +1,5 @@
 # ksu
-hello world!
+print("hello world!")
 
 ## 💬 Socials
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [neksushka](https://steamcommunity.com/id/neksushka/)
