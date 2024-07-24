@@ -11,4 +11,5 @@ hello world!
 ![counter](https://moe-counter.glitch.me/get/@shehvh?theme=asoul) \
 
 #### Lua:
-- [shehvh/ft/shetech](https://github.com/tickcount/voice-listener.lua), fatality.win lua.
+- [shehvh/luas/ft](https://github.com/shehvh/luas/blob/main/ft/shetech.lua), fatality.win lua.
+- [shehvh/luas/ft](https://github.com/shehvh/luas/blob/main/ft/keybinds.lua), Feels like "Solus UI" Keybinds.
