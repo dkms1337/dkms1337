@@ -8,7 +8,7 @@ hello world!
 - ![Fakecrime Logo](https://i.ibb.co/sP9nhcj/favicon-1.png) __Fakecrime__ - [ksusha](https://fakecrime.bio.ksusha)
 
 ## 🔮 Projects
-![counter](https://moe-counter.glitch.me/get/@shehvh?theme=asoul) \
+![counter](https://moe-counter.glitch.me/get/@shehvh?theme=asoul)
 
 #### Lua:
 - [shehvh/luas/ft](https://github.com/shehvh/luas/blob/main/ft/shetech.lua), shetech (open-source).
