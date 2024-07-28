@@ -1,5 +1,6 @@
 # ksu
-print("hello world!")
+print("Я видел много глаз, но утонуть смог только в твоих")
+print("Видел много женщин, полюбить смог только двоих")
 
 ## 💬 Socials
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [neksushka](https://steamcommunity.com/id/neksushka/)
@@ -16,3 +17,4 @@ print("hello world!")
 - [shehvh/luas/ft](https://github.com/shehvh/luas/blob/main/ft/PerfectPeakPrimordialPort.lua), Primordial Perfect Peak Port (open-source).
 #### Other:
 - [shehvh/ModelsForCsgo](https://github.com/shehvh/ModelsForCsgo), Models for csgo.
+- [shehvh/GsLagcomp](https://github.com/shehvh/GsLagcomp), Reversed gamesense lagcomp.
