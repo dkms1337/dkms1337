@@ -1,6 +1,6 @@
 
 ## 🔮 Projects
-![counter](https://moe-counter.glitch.me/get/@shehvh?theme=asoul)
+![counter](https://moe-counter.glitch.me/get/@dkms1337?theme=asoul)
 
 #### Other:
-- [shehvh/ModelsForCsgo](https://github.com/shehvh/ModelsForCsgo), Models for csgo.
+- [dkms1337/ModelsForCsgo](https://github.com/dkms1337/ModelsForCsgo), Models for csgo.
